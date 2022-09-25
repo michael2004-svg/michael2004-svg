@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @michael2004-svg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi- 👋 Hi, I’m @michael2004-svg
+- 👀 I’m interested in . developing application
+- 🌱 I’m currently learning ..java.
+- 💞️ I’m looking to collaborate on .any projects..
+- 📫 How to reach me jiemikey@gmail.com
 
 <!---
 michael2004-svg/michael2004-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
